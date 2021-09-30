@@ -228,4 +228,4 @@ async def favourite(ctx):
 
 keep_alive()
 
-bot.run('Nzc0NTEzMjQ3ODMxMTk1NjQ4.X6Y3rA.UP6x7WgXNNUqVS6wE7wBzq2cy3M')
+bot.run('BOT_TOKEN')
